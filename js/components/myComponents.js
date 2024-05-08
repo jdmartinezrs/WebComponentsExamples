@@ -5,7 +5,7 @@ class H7 extends HTMLElement{
     this.attachShadow({mode:"open"})
     this.shadowRoot.innerHTML =/*html*/`
     <link rel="stylesheet" href="css/myComponent.css">
-    <div class="h7">Mach 1</div>
+    <div class="h7">7</div>
     `; 
   }
 }
